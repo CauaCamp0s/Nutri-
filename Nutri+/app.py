@@ -5,8 +5,8 @@ from googletrans import Translator
 app = Flask(__name__)
 
 # Chaves da API Edamam (substitua pelos valores reais)
-EDAMAM_APP_ID = '9cb04da1'
-EDAMAM_API_KEY = '479e57a53f395251946987b4a9a810b6'
+EDAMAM_APP_ID = 'escreva tua chave'
+EDAMAM_API_KEY = 'escreva tua chave'
 
 # Inicializa o tradutor
 translator = Translator()
